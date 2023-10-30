@@ -85,3 +85,31 @@ Example:
 The proliferation of digital communication has led to an exponential increase in textual data, making it imperative to understand the emotional undercurrents in these interactions. While emotion detection has been explored, the accuracy and depth of these analyses still need to be improved, especially in diverse and nuanced contexts. Existing models often struggle with subtleties in language, cultural differences, and varied expressions of emotions. This gap has significant implications, as accurate emotion detection is crucial for applications ranging from mental health monitoring to customer service optimization.
 
 Our research is motivated by the need to enhance the understanding of emotions in textual data, leveraging the advancements in machine learning. We aim to address the shortcomings of current models by implementing both traditional machine learning algorithms and cutting-edge deep learning techniques. The goal is to create a model that improves accuracy and adapts to the complexities and subtleties of human emotions in textual communication. This research can potentially revolutionize how we interact with and interpret textual data, offering profound implications for various sectors, including healthcare, marketing, and social media.
+
+## Literature Review
+
+The literature review section of a research paper provides an overview of existing research related to your study. It involves critically analyzing and synthesizing previous studies to establish a foundation for your research. This section demonstrates your understanding of the field, highlights progress, and identifies where your research fits into the existing body of knowledge.
+
+For this project, the Literature Review must comply with the following requirements:
+
+-   **Define the Scope**: Clearly outline the boundaries of your review. Focus on literature that is directly relevant to the research.
+    
+-   **Organize the Review**: Structure your review logically. You can organize it chronologically, thematically, or methodologically, depending on what makes the most sense for your topic.
+    
+-   **Summarize and Synthesize**: For each work, provide a brief summary and discuss how it contributes to the field. Then, synthesize the findings to show trends, conflicts, or gaps in the research.
+    
+-   **Critically Evaluate**: Offer a critical analysis of the literature. Discuss the strengths and weaknesses of previous studies and methodologies.
+    
+-   **Link to Your Study**: Explain how the literature review leads to your research question or hypothesis. Highlight the gap this study aims to fill.
+
+-   **Required bibliography**: At least 7 research papers must be cited and compared for this project. These papers can be selected from the pool of documents provided in previous weeks or can be other papers found in peer-reviewed journals.
+
+Example:
+
+Emotion detection in textual data has been an evolving area of research within machine learning and natural language processing. Early attempts primarily employed rule-based methods and lexical approaches, as seen in studies by Smith et al. (2010) and Jones et al. (2012), which focused on identifying keywords indicative of emotional states. While these approaches provided a foundation, they needed more contextual understanding and flexibility.
+
+The advent of machine learning algorithms brought significant advancements. Research by Lee and Kim (2015) demonstrated the potential of Support Vector Machines (SVM) in classifying emotions, achieving notable accuracy. However, these models often struggled with the complexity and subtleties of natural language.
+
+Recent studies have shifted towards deep learning techniques, particularly Convolutional Neural Networks (CNNs). A groundbreaking study by Zhang et al. (2018) showcased the ability of CNNs to capture intricate patterns in textual data, significantly enhancing emotion detection accuracy. Despite these advancements, challenges remain in dealing with cultural nuances, linguistic variations, and implicit emotional expressions.
+
+Our research builds upon these findings, aiming to address the limitations of current models by integrating both traditional and deep learning approaches. We seek to develop a more robust and adaptable emotion detection model by exploring the synergies between different methodologies.
