@@ -113,3 +113,36 @@ The advent of machine learning algorithms brought significant advancements. Rese
 Recent studies have shifted towards deep learning techniques, particularly Convolutional Neural Networks (CNNs). A groundbreaking study by Zhang et al. (2018) showcased the ability of CNNs to capture intricate patterns in textual data, significantly enhancing emotion detection accuracy. Despite these advancements, challenges remain in dealing with cultural nuances, linguistic variations, and implicit emotional expressions.
 
 Our research builds upon these findings, aiming to address the limitations of current models by integrating both traditional and deep learning approaches. We seek to develop a more robust and adaptable emotion detection model by exploring the synergies between different methodologies.
+
+
+## Experimentation:
+
+The experimentation section of a research paper describes the practical steps you took to investigate your research question. It should detail the methodologies used, the experimental setup, the data, and the procedures followed. This section must provide enough detail for another researcher to replicate your study.
+
+For this project, the Experimentation section must comply with the following requirements:
+
+-   **Methodology Description**: Clearly explain the methodologies used in your study. In this case, describe the three different Python programs for emotion detection, each representing a different approach (rule-based, neural networks, deep learning).
+    
+-   **Experimental Setup**: Outline the setup for the experiments, including the datasets used (train, test, and validation sets), and the hardware and software configurations.
+    
+-   **Procedure**: Detail the procedure followed in the experiments. Mention that each program has various hyperparameters which can be adjusted, and that students are expected to execute each algorithm at least 10 times with different hyperparameter values.
+    
+-   **Data Collection and Analysis**: Explain how the data (in this case, accuracy metrics) will be collected and analyzed. Mention that students are expected to graph the changes in accuracy to visualize the results.
+    
+-   **Flow Diagrams**: State that students are expected to create flow diagrams to explain how each program works and how the algorithms learn.
+    
+-   **Replicability**: Ensure that the description is thorough enough to allow replication of the study by others.
+
+Activities to be performed for this section:
+
+**Experimentation:** Three distinct Python programs have been provided, each embodying a different approach to emotion detection: rule-based, neural networks, and deep learning. The programs are designed to analyze a labeled text dataset to predict emotions.
+
+**Methodology:** Each program is equipped with adjustable hyperparameters, allowing for the fine-tuning of the algorithms to optimize accuracy. Students are provided with the source code and are expected to r**un each program at least 10 times**, altering hyperparameters in each iteration.
+
+**Experimental Setup:** The dataset is divided into training, testing, and validation sets. The provided python programs already use the training set for initial model training, the test set for evaluating performance, and the validation set for final accuracy assessment.
+
+**Procedure:** Students will systematically adjust hyperparameters such as learning rate, batch size, or layers in the neural network, and d**ocument the resultant changes in accuracy**. These variations aim to explore the impact of each parameter on the model’s performance.
+
+**Data Collection and Analysis:** The accuracy of each run is recorded, **and students are required to graph these results to visualize the impact of hyperparameter adjustments.** This graphical representation will aid in understanding the correlation between hyperparameters and model performance.
+
+**Flow Diagrams:** Additionally, students are expected to **create flow diagrams that delineate the operational process of each program, elucidating how the input data is processed and how the algorithm learns and predicts emotions**. These diagrams must be high-level, the objective here is not to produce an algorithm, but to show understanding of the moving parts in each approach.
