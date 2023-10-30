@@ -239,7 +239,7 @@ For this project, the bibliography must be included and formatted according to t
 
 ## Format
 
-A specific LaTeX format has been provided for this project. This format is designed to ensure consistency and professionalism in the presentation of your reports. LaTeX is a high-quality typesetting system widely used for scientific and technical documents due to its precise control over layout and formatting.
+A specific LaTeX format has been provided for this project (ITESM-MIT-MasterThesis.zip). This format is designed to ensure consistency and professionalism in the presentation of your reports. LaTeX is a high-quality typesetting system widely used for scientific and technical documents due to its precise control over layout and formatting.
 
 Download the provided template and import it into your Overleaf.com account. Write your report and your bibliography according to this template. 
 
