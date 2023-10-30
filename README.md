@@ -137,12 +137,42 @@ Activities to be performed for this section:
 
 **Experimentation:** Three distinct Python programs have been provided, each embodying a different approach to emotion detection: rule-based, neural networks, and deep learning. The programs are designed to analyze a labeled text dataset to predict emotions.
 
-**Methodology:** Each program is equipped with adjustable hyperparameters, allowing for the fine-tuning of the algorithms to optimize accuracy. Students are provided with the source code and are expected to r**un each program at least 10 times**, altering hyperparameters in each iteration.
+**Methodology:** Each program is equipped with adjustable hyperparameters, allowing for the fine-tuning of the algorithms to optimize accuracy. Students are provided with the source code and are expected to **run each program at least 10 times**, altering hyperparameters in each iteration.
 
 **Experimental Setup:** The dataset is divided into training, testing, and validation sets. The provided python programs already use the training set for initial model training, the test set for evaluating performance, and the validation set for final accuracy assessment.
 
-**Procedure:** Students will systematically adjust hyperparameters such as learning rate, batch size, or layers in the neural network, and d**ocument the resultant changes in accuracy**. These variations aim to explore the impact of each parameter on the model’s performance.
+**Procedure:** Students will systematically adjust hyperparameters such as learning rate, batch size, or layers in the neural network, and **document the resultant changes in accuracy**. These variations aim to explore the impact of each parameter on the model’s performance.
 
 **Data Collection and Analysis:** The accuracy of each run is recorded, **and students are required to graph these results to visualize the impact of hyperparameter adjustments.** This graphical representation will aid in understanding the correlation between hyperparameters and model performance.
 
 **Flow Diagrams:** Additionally, students are expected to **create flow diagrams that delineate the operational process of each program, elucidating how the input data is processed and how the algorithm learns and predicts emotions**. These diagrams must be high-level, the objective here is not to produce an algorithm, but to show understanding of the moving parts in each approach.
+
+
+## Results
+
+The results section of a research paper is where you present the findings of your study without interpretation. It's a factual report of the data collected during your experiments. This section should be clear, concise, and objective, allowing readers to understand the outcomes of your research.
+
+For this project, the Results section must comply with the following requirements:
+
+-   **Present Findings Clearly**: Report the findings from your experiments logically and systematically. You can use figures, tables, and graphs to show your data where appropriate.
+    
+-   **No Interpretation**: Avoid discussing the implications or significance of your results in this section. Focus solely on presenting the data.
+    
+-   **Accuracy and Detail**: Provide precise measurements and avoid omitting relevant data. Details such as sample sizes, response rates, and statistical significance should be included.
+    
+-   **Organize Sequentially**: Present your results in the same sequence that you described the methodology in the experimentation section.
+
+Example:
+
+**Results:**
+
+**Rule-Based Approach:** In the rule-based emotion detection approach, the average accuracy across 10 trials with varying hyperparameters was 58%. The highest recorded accuracy was 62%, achieved with a specific set of lexical rules. Figure 1 illustrates the changes in accuracy as hyperparameters were adjusted.
+
+**Neural Networks:** The neural network approach yielded more promising results, with an average accuracy of 75%. The peak accuracy achieved was 81%, attributed to optimal hyperparameter tuning. Figure 2 demonstrates the fluctuation in accuracy with different hyperparameter configurations.
+
+**Deep Learning:** The deep learning model demonstrated the highest efficacy, with an average accuracy of 85%. The maximum accuracy recorded was 90%, observed with an intricate layer configuration and learning rate adjustment. Figure 3 depicts the accuracy trends throughout the trials.
+
+**Comparative Analysis:** A comparative analysis of all three approaches is presented in Figure 4, highlighting the varying levels of accuracy achieved in each method. This comparison underscores the differences in performance among the algorithms.
+
+**Flow Diagrams:** Accompanying the quantitative results, the following diagrams provided a visual representation of how the algorithms processed input data and predicted emotions.
+
