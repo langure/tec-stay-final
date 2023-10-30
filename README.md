@@ -1,4 +1,8 @@
-In natural language processing, the ability to accurately detect and classify emotions from textual data stands as a pivotal challenge, with far-reaching applications in areas such as sentiment analysis, customer feedback interpretation, and human-computer interaction. This final project is designed to provide students with hands-on experience in this intricate domain of machine learning. The task involves the preparation, analysis, and emotion annotation of a text dataset, employing three distinct computational approaches: rule-based, neural networks, and deep learning.
+# Research Stay - Final Proyect
+## Introduction
+
+In natural language processing, the ability to accurately detect and classify emotions from textual data is a pivotal challenge, with far-reaching applications in sentiment analysis, customer feedback interpretation, and human-computer interaction. This final project is designed to provide students with hands-on experience in this intricate domain of machine learning. The task involves the preparation, analysis, and emotion annotation of a text dataset, employing three distinct computational approaches: rule-based, neural networks, and deep learning.
+
 
 The students must download and execute the proportionated Python program capable of processing the prepared dataset. The program is adept at training models based on the specified approaches and generating emotion detection predictions. 
 
