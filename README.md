@@ -176,3 +176,35 @@ Example:
 
 **Flow Diagrams:** Accompanying the quantitative results, the following diagrams provided a visual representation of how the algorithms processed input data and predicted emotions.
 
+
+## Discussion
+
+In the discussion section, you interpret and analyze your findings, contextualizing them within the broader field of study. This section should explore the implications of your results, discuss any unexpected findings, and relate your research to existing knowledge.
+
+For this project, the discussion section must comply with the following requirements:
+
+-   **Interpret Results**: Offer interpretations of what your findings mean. Explain how your results relate to your hypotheses or research questions.
+    
+-   **Contextualize with Literature**: Relate your findings to existing studies and literature. Discuss how your results support, challenge, or extend current knowledge.
+    
+-   **Discuss Limitations**: Acknowledge any limitations or weaknesses in your study and suggest how they might be addressed in future research.
+    
+-   **Implications and Recommendations**: Highlight the implications of your findings and suggest practical applications or recommendations for future research.
+
+For this section, it is expected that the student will give an educated opinion about the changes in accuracy for each algorithm and also the impact that the change in hyperparameters makes on performance. **The student must respond to the following questions:** 
+
+## *If the hyperparameters are the key to 100% accuracy, why not just increase these hyperparameters until perfection in accuracy is achieved? Why is computer science from doing that?*
+
+Example:
+
+Our study's findings indicate significant variations in the performance of different emotion detection algorithms. The rule-based approach, while simpler, offered lower accuracy (average 58%) compared to neural networks and deep learning models. This aligns with the inherent limitation of rule-based systems, which struggle to capture the nuances and complexities of human emotions.
+
+The neural network approach demonstrated better performance (average 75%), suggesting that machine learning models can effectively learn from data to predict emotions. However, the highest accuracy was achieved by the deep learning model (average 85%), emphasizing the potential of deep learning in processing and interpreting textual data.
+
+Interestingly, the deep learning model's peak accuracy (90%) highlights the importance of hyperparameter tuning and model architecture in optimizing performance. This finding is consistent with literature emphasizing the critical role of hyperparameters in machine learning models (Smith, 2021).
+
+A noteworthy limitation of our study is the reliance on a single dataset. Future research should consider diverse datasets to validate the generalizability of our findings.
+
+The implications of our study are substantial for fields like sentiment analysis and human-computer interaction, where accurate emotion detection is paramount. We recommend further exploration into deep learning architectures and hyperparameter optimization to enhance emotion detection algorithms.
+
+Our research contributes to the growing body of knowledge on emotion detection in textual data. It underscores the importance of choosing appropriate machine learning models and tuning them for optimal performance.
