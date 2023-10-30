@@ -193,7 +193,7 @@ For this project, the discussion section must comply with the following requirem
 
 For this section, it is expected that the student will give an educated opinion about the changes in accuracy for each algorithm and also the impact that the change in hyperparameters makes on performance. In addition to the previous points **the student must respond to the following questions:** 
 
-## *If the hyperparameters are the key to 100% accuracy, why not just increase these hyperparameters until perfection in accuracy is achieved? What is prevengin computer science from doing that?*
+## *If the hyperparameters are the key to 100% accuracy, why not just increase these hyperparameters until perfection in accuracy is achieved? What is preventing computer science from doing that?*
 
 Example:
 
