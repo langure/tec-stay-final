@@ -191,9 +191,9 @@ For this project, the discussion section must comply with the following requirem
     
 -   **Implications and Recommendations**: Highlight the implications of your findings and suggest practical applications or recommendations for future research.
 
-For this section, it is expected that the student will give an educated opinion about the changes in accuracy for each algorithm and also the impact that the change in hyperparameters makes on performance. **The student must respond to the following questions:** 
+For this section, it is expected that the student will give an educated opinion about the changes in accuracy for each algorithm and also the impact that the change in hyperparameters makes on performance. In addition to the previous points **the student must respond to the following questions:** 
 
-## *If the hyperparameters are the key to 100% accuracy, why not just increase these hyperparameters until perfection in accuracy is achieved? Why is computer science from doing that?*
+## *If the hyperparameters are the key to 100% accuracy, why not just increase these hyperparameters until perfection in accuracy is achieved? What is prevengin computer science from doing that?*
 
 Example:
 
@@ -208,3 +208,39 @@ A noteworthy limitation of our study is the reliance on a single dataset. Future
 The implications of our study are substantial for fields like sentiment analysis and human-computer interaction, where accurate emotion detection is paramount. We recommend further exploration into deep learning architectures and hyperparameter optimization to enhance emotion detection algorithms.
 
 Our research contributes to the growing body of knowledge on emotion detection in textual data. It underscores the importance of choosing appropriate machine learning models and tuning them for optimal performance.
+
+## Conclusions
+
+The conclusions section is the final part of your research paper where you summarize your findings, restate the significance of your research, and provide a closure. This section should encapsulate the essence of your study, offering a concise synthesis of the key points.
+
+For this project, the conclusions section must comply with the following requirements:
+
+-   **Summarize Key Findings**: Briefly reiterate the main findings of your research. This is not a place for introducing new information.
+    
+-   **Restate Research Significance**: Highlight the importance of your study and its contribution to the field.
+    
+-   **Reflect on Limitations**: Quickly recap the limitations of your study, acknowledging its scope and boundary conditions.
+    
+-   **Suggest Future Research**: Offer recommendations for future studies that can build upon your work.
+
+Example:
+
+Our study embarked on a comparative analysis of three distinct emotion detection algorithms: rule-based, neural networks, and deep learning. The findings revealed that while rule-based approaches provide a foundational level of accuracy (average 58%), they are surpassed by machine learning models. Neural networks exhibited improved accuracy (average 75%), showcasing their learning capabilities. However, deep learning models emerged as the most effective, attaining the highest average accuracy of 85%.
+
+These results underscore the progressive enhancement in emotion detection accuracy as we move from rule-based methods to more sophisticated machine learning and deep learning techniques. The study highlights the critical role of algorithm selection and hyperparameter tuning in achieving optimal performance in emotion detection tasks.
+
+While our research provided valuable insights, it was limited by the use of a single dataset. Future studies should consider a more diverse range of datasets to validate and extend our findings.
+
+In conclusion, our research contributes to the evolving landscape of emotion detection in textual data. It emphasizes the potential of machine learning, particularly deep learning, in deciphering complex human emotions. This study serves as a stepping stone for future research aimed at refining emotion detection algorithms and exploring their applications in various domains.
+
+## Bibliography
+
+For this project, the bibliography must be included and formatted according to the LaTeX template in the repository.
+
+## Format
+
+A specific LaTeX format has been provided for this project. This format is designed to ensure consistency and professionalism in the presentation of your reports. LaTeX is a high-quality typesetting system widely used for scientific and technical documents due to its precise control over layout and formatting.
+
+Download the provided template and import it into your Overleaf.com account. Write your report and your bibliography according to this template. 
+
+Your final submission will be done through your personal github account and an email notice.
